@@ -20,7 +20,7 @@ h1{
   font-family: cursive;
   margin: 50px auto 0 auto;
   padding-bottom: 0;
-  font-size: 60px;
+  font-size: 77px;
 }
 h3{
   color: #11999E;
@@ -29,7 +29,7 @@ h3{
 p{
   display: block;
   color: #21094e;
-  font-size: 20px;
+  font-size: 33px;
   ;
 }
 hr{
@@ -52,7 +52,7 @@ hr{
     top: 35px;
     display: inline-block;
     height: 61px;
-    font-size: 29px;
+    font-size: 51px;
 }
 ul{
   list-style-type: none;
